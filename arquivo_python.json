@@ -1,0 +1,16 @@
+{
+  "nome": "Victor",
+  "sobrenome": "Francklin",
+  "enderecos": [
+    {
+      "rua": "Delhi",
+      "logradouro": 137,
+      "complemento": "FUNDOS"
+    },
+    {
+      "rua": "Deocleciano Ramos",
+      "logradouro": 740,
+      "complemento": "LOTE 2"
+    }
+  ]
+}
